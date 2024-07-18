@@ -1,0 +1,10 @@
+pluginManagement {
+  repositories {
+    google()
+    mavenCentral()
+  }
+}
+
+rootProject.name = "Shamrock_Robot_Lin"
+
+include(":app")
